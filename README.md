@@ -1,31 +1,115 @@
-<h1 align="center">Hi 👋, I'm Saksham Sharawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-sharawat&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-sharawat" /> </p>
+# Hi 👋, I'm Saksham Sharawat
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-sharawat" alt="saksham-sharawat" /></a> </p>
+### B.Tech CSE (AI & ML) Student • Frontend Developer • Builder
 
-- 🔭 I’m currently working on [Javascript-Journey](https://github.com/Saksham-Sharawat/Javascript-Journey.git)
+I’m a first-year AI & ML student focused on building real projects, strengthening my development skills, and documenting the journey publicly.
 
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **Frontend development**
-
-- 📫 How to reach me **sakshamsharawat04@gmail.com**
-
-- ⚡ Fun fact **I was also a fitness enthusiast**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saksham sharawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham sharawat" height="30" width="40" /></a>
-<a href="https://instagram.com/saksham.sharawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham.sharawat" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Saksham-Sharawat">
+    <img src="https://komarev.com/ghpvc/?username=Saksham-Sharawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Saksham-Sharawat?tab=followers">
+    <img src="https://img.shields.io/github/followers/Saksham-Sharawat?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Saksham-Sharawat?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Saksham-Sharawat?affiliations=OWNER&style=flat&label=Total%20Stars" alt="Total GitHub stars" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/Saksham-Sharawat">
+    <img src="https://img.shields.io/badge/GitHub-Saksham--Sharawat-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/saksham-sharawat/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saksham%20Sharawat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sakshamsharawat04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-sharawat&show_icons=true&locale=en&layout=compact" alt="saksham-sharawat" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-sharawat&show_icons=true&locale=en" alt="saksham-sharawat" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-sharawat&" alt="saksham-sharawat" /></p>
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI & ML) student
+- 💻 Focused on frontend development and JavaScript
+- 🔨 Currently building **[Javascript-Journey](https://github.com/Saksham-Sharawat/Javascript-Journey)**
+- 🌱 Currently learning **JavaScript** and improving my problem-solving skills
+- 📚 Learning by building projects and documenting my progress
+- 🎯 Long-term goal: build products, businesses, and useful technology
+- ⚡ Outside code: fitness, learning, and personal growth
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,linux,vscode&perline=8" alt="Tech stack" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+<p align="center">
+  <a href="https://github.com/Saksham-Sharawat/Javascript-Journey">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saksham-Sharawat&repo=Javascript-Journey&theme=tokyonight&hide_border=true" alt="Javascript-Journey" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saksham-Sharawat/Javascript-Journey">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View project" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Sharawat&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Sharawat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saksham-Sharawat&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Sharawat&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/Saksham-Sharawat">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Sharawat&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+---
+
+## 📚 Current Focus
+
+```text
+Frontend Development   ███████████████░░░░░
+JavaScript             █████████████░░░░░░░
+Git & GitHub            ████████████░░░░░░░░
+C Programming           ██████████░░░░░░░░░░
+AI & ML                 ██████░░░░░░░░░░░░░░
