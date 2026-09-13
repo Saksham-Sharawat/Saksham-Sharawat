@@ -4,17 +4,14 @@
 
 ### B.Tech CSE (AI & ML) Student • Frontend Developer • Builder
 
-I’m a first-year AI & ML student focused on building real projects, strengthening my development skills, and documenting the journey publicly.
+I’m a first-year AI & ML student focused on building real projects, strengthening my development skills, and documenting my journey publicly.
 
 <p>
   <a href="https://github.com/Saksham-Sharawat">
-    <img src="https://komarev.com/ghpvc/?username=Saksham-Sharawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Saksham-Sharawat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/Saksham-Sharawat?tab=followers">
-    <img src="https://img.shields.io/github/followers/Saksham-Sharawat?label=Followers&style=flat" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Saksham-Sharawat?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Saksham-Sharawat?affiliations=OWNER&style=flat&label=Total%20Stars" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/github/followers/Saksham-Sharawat?label=Followers&style=flat" alt="Followers" />
   </a>
 </p>
 
@@ -49,32 +46,46 @@ I’m a first-year AI & ML student focused on building real projects, strengthen
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,linux,vscode&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,linux,vscode&perline=8" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 📌 Featured Project
 
-<p align="center">
-  <a href="https://github.com/Saksham-Sharawat/Javascript-Journey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saksham-Sharawat&repo=Javascript-Journey&theme=tokyonight&hide_border=true" alt="Javascript-Journey" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Saksham-Sharawat/Javascript-Journey">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View project" />
-  </a>
-</p>
+### ⚡ JavaScript Journey
+
+A collection of my JavaScript learning, practice, and projects as I build my skills step by step.
+
+<a href="https://github.com/Saksham-Sharawat/Javascript-Journey">
+  <img src="https://img.shields.io/badge/🚀%20View%20Project-181717?style=for-the-badge&logo=github" alt="View Project" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/stars/Saksham-Sharawat/Javascript-Journey?style=flat-square&label=Stars" alt="Project Stars" />
+<img src="https://img.shields.io/github/forks/Saksham-Sharawat/Javascript-Journey?style=flat-square&label=Forks" alt="Project Forks" />
+<img src="https://img.shields.io/github/last-commit/Saksham-Sharawat/Javascript-Journey?style=flat-square&label=Last%20Commit" alt="Last Commit" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Sharawat&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Sharawat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saksham-Sharawat&theme=github_dark"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham-Sharawat&theme=github_dark"
+    height="180"
+    alt="Repositories by Language"
+  />
 </p>
 
 ---
@@ -82,7 +93,10 @@ I’m a first-year AI & ML student focused on building real projects, strengthen
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Saksham-Sharawat&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Saksham-Sharawat&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -90,7 +104,14 @@ I’m a first-year AI & ML student focused on building real projects, strengthen
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Sharawat&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+
+<a href="https://github.com/Saksham-Sharawat?tab=achievements">
+  <img
+    src="https://img.shields.io/badge/View%20GitHub%20Achievements-181717?style=for-the-badge&logo=github"
+    alt="GitHub Achievements"
+  />
+</a>
+
 </p>
 
 ---
@@ -99,7 +120,10 @@ I’m a first-year AI & ML student focused on building real projects, strengthen
 
 <p align="center">
   <a href="https://github.com/Saksham-Sharawat">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Sharawat&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saksham-Sharawat&theme=github_dark"
+      alt="GitHub Contribution Activity"
+    />
   </a>
 </p>
 
@@ -107,9 +131,22 @@ I’m a first-year AI & ML student focused on building real projects, strengthen
 
 ## 📚 Current Focus
 
+<p align="center">
+
+| Area | Focus |
+| :--- | :--- |
+| 🌐 Frontend Development | HTML • CSS • JavaScript |
+| ⚡ JavaScript | Projects & DOM |
+| 🐧 Linux | Linux Administration |
+| 💻 C Programming | Programming Fundamentals |
+| 🤖 AI & ML | Building Strong Foundations |
+| 🔧 Git & GitHub | Version Control & Open Source |
+
+</p>
+
+---
+
+## 🎯 What I'm Working Toward
+
 ```text
-Frontend Development   ███████████████░░░░░
-JavaScript             █████████████░░░░░░░
-Git & GitHub            ████████████░░░░░░░░
-C Programming           ██████████░░░░░░░░░░
-AI & ML                 ██████░░░░░░░░░░░░░░
+Learn → Build → Ship → Improve → Repeat
