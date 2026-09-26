@@ -89,18 +89,6 @@ A collection of my JavaScript learning, practice, and projects as I build my ski
 </p>
 
 ---
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Saksham-Sharawat&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -145,8 +133,3 @@ A collection of my JavaScript learning, practice, and projects as I build my ski
 </p>
 
 ---
-
-## 🎯 What I'm Working Toward
-
-```text
-Learn → Build → Ship → Improve → Repeat
